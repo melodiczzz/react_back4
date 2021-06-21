@@ -1,0 +1,5 @@
+1. show all links from db
+2. Update all links download speed in db
+3. make download option in android
+
+
